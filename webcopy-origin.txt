@@ -1,0 +1,20 @@
+Uri: https://cozypepe.meme/
+File Name: C:\work\Downloaded Web Sites\shablons\cozypepe.meme\index.htm
+Content Type: text/html
+
+Uri: https://cozypepe.meme/assets/index-CkEBFeN2.js
+File Name: C:\work\Downloaded Web Sites\shablons\cozypepe.meme\assets\index-CkEBFeN2.js
+Content Type: application/javascript
+
+Uri: https://cozypepe.meme/assets/index-lHl0GeGp.css
+File Name: C:\work\Downloaded Web Sites\shablons\cozypepe.meme\assets\index-lHl0GeGp.css
+Content Type: text/css
+
+Uri: https://cozypepe.meme/assets/pixel-bg-ChxtST2G.png
+File Name: C:\work\Downloaded Web Sites\shablons\cozypepe.meme\assets\pixel-bg-ChxtST2G.png
+Content Type: image/png
+
+Uri: https://cozypepe.meme/cozyPepeSvg.png
+File Name: C:\work\Downloaded Web Sites\shablons\cozypepe.meme\cozyPepeSvg.png
+Content Type: image/png
+
